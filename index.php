@@ -1,13 +1,15 @@
 <!DOCTYPE html>
 
-<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-	<meta charset="utf-8">
-	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<html lang="en">
+<head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 
-	<title>Karthik Rajan</title>
-	<meta name="description" content="My Life, My Story">
-	<meta name="author" content="Karthik">
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Karthik Rajan</title>
+  <meta name="description" content="My Life, My Story">
+  <meta name="author" content="Karthik">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
   <link rel="stylesheet" href="files/css/bootstrap.min.css">
   <link rel="stylesheet" href="files/css/animate.css">
   <link rel="stylesheet" href="files/css/font-awesome.css">
@@ -17,8 +19,9 @@
   <!--[if lt IE 9]>
     <link rel="stylesheet" href="css/font-awesome-ie7.css">
     <script src="js/html5-3.4-respond-1.1.0.min.js"></script>
-	<![endif]-->
-  
+  <![endif]-->
+  <link rel="shortcut icon" type="image/x-icon" href="files/favicons/favicon-karthik-2.ico" />
+  <link rel="icon" type="image/x-icon" href="files/favicons/favicon-karthik-2.ico" />
 </head>
 <body id="home" data-spy="scroll" data-target="#primary-nav">
   <div class="navbar navbar-inverse navbar-fixed-top">
@@ -491,40 +494,40 @@
     <div class="container">
       <div class="row">
         <div class="span2">
-					<h3>Business Network</h3>
-					<ul>
-						<li><a href="#" title=""><i class="icon-external-link"></i> Company Websites</a></li>
-						<li><a href="#" title=""><i class="icon-external-link"></i> Subsidiary Websites</a></li>
-						<li><a href="#" title=""><i class="icon-external-link"></i> Affiliate Websites</a></li>
+          <h3>Business Network</h3>
+          <ul>
+            <li><a href="#" title=""><i class="icon-external-link"></i> Company Websites</a></li>
+            <li><a href="#" title=""><i class="icon-external-link"></i> Subsidiary Websites</a></li>
+            <li><a href="#" title=""><i class="icon-external-link"></i> Affiliate Websites</a></li>
             <li><a href="#" title=""><i class="icon-external-link"></i> Sibling Websites</a></li>
-					</ul>
-				</div>
-				<div class="span2">
-  				<h3>Social Networks</h3>
-   			  <ul>
-						<li><a href="#" title=""><i class="icon-twitter"></i> Twitter</a></li>
-						<li><a href="#" title=""><i class="icon-facebook"></i> Facebook</a></li>
-						<li><a href="#" title=""><i class="icon-google-plus"></i> Google+</a></li>
+          </ul>
+        </div>
+        <div class="span2">
+          <h3>Social Networks</h3>
+          <ul>
+            <li><a href="#" title=""><i class="icon-twitter"></i> Twitter</a></li>
+            <li><a href="#" title=""><i class="icon-facebook"></i> Facebook</a></li>
+            <li><a href="#" title=""><i class="icon-google-plus"></i> Google+</a></li>
             <li><a href="#" title=""><i class="icon-pinterest"></i> Pinterest</a></li>
-					</ul>
-				</div>
-				<div class="span4">
-					<h3>Terms and Conditions</h3>
+          </ul>
+        </div>
+        <div class="span4">
+          <h3>Terms and Conditions</h3>
           <p>Commercial Use. If you would like to use these graphics in a commercial projects, please go to the commercial use section. Non-profit use.</p>
           <p>If you would like to use graphics from psdgraphics.com in a non-profit projects.</p>
-				</div>
-				<div class="span4">
-					<h3>Newsletter</h3>
-					<p>Subscribe to our monthly newsletter and be the first to know about our news and special deals!</p>
-					<form>
+        </div>
+        <div class="span4">
+          <h3>Newsletter</h3>
+          <p>Subscribe to our monthly newsletter and be the first to know about our news and special deals!</p>
+          <form>
             <div class="controls">
               <div class="input-append">
-						    <input type="text" placeholder="Enter your E-mail">
-						    <input type="submit" class="btn btn-inverse" value="Ok">
+                <input type="text" placeholder="Enter your E-mail">
+                <input type="submit" class="btn btn-inverse" value="Ok">
               </div>  
             </div>
-					</form>
-				</div>
+          </form>
+        </div>
       </div>
     </div>
     <div class="base">
