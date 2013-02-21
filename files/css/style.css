@@ -511,7 +511,8 @@ footer div.base {
   width: auto;
   padding-top: 15px;
   padding-bottom: 8px;
-  border-top: 1px solid #292929;
+  /* border-top: 1px solid #292929; */
+  text-align: center;
   background: #000;
 }
 footer p {
