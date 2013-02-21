@@ -48,6 +48,10 @@
         <div class="row">
           <div class="span12 headline">
             <h1>Karthik Rajan</h1>
+            <small>
+              Sofware Development Engineer, Amazon.com
+            </small>
+            <br><br>
             <a class="btn btn-red btn-large anchorLink" href="dloads/KarthikR.pdf">View my complete Profile    <i class="icon-share-alt icon-white"></i></a>
       
           </div><!--/span12-->
